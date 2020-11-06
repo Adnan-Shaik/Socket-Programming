@@ -1,2 +1,2 @@
 # Socket-Programming
-A small SCOKET programming script in pyhton.
+A small SCOKET programming script in python.
